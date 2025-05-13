@@ -6,3 +6,7 @@ library(usethis)
 
 #variable 
 x <- 4
+
+#new variables 
+rain <- read.csv(x)
+  
